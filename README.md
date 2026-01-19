@@ -94,5 +94,5 @@ This project leverages a sophisticated stack to deliver a seamless experience:
 
 ---
 
-**Developed with ❤️ by [Your Name]**
+**Developed with my knowledge and AI by Sanjai S**
 *Solving real problems with code.*
