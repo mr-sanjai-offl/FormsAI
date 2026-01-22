@@ -69,7 +69,7 @@ This project leverages a sophisticated stack to deliver a seamless experience:
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/FormsAI.git
+    git clone https://github.com/mr-sanjai-offl/FormsAI.git
     ```
 
 2.  **Configure API Keys**
